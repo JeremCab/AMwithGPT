@@ -8,9 +8,9 @@ Argument Mining (AM) is a challenging task in NLP which focuses on extracting th
 
 ## In-context learning
 
-The notebooks for the **in-context learning (ICL)** approach are in the folder `InContextLearning/`.
+The notebooks for the experiments related to the **in-context learning (ICL) approach** are in the folder `InContextLearning/`.
 
 
 ## Fine-tuning 
 
-The notebooks for the **fine-tuning (FT)** approach are in the folder `FineTuning/`.
+The notebooks for the experiments related to the **fine-tuning (FT) approach** are in the folder `FineTuning/`.
